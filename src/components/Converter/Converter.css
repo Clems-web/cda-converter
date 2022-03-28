@@ -1,0 +1,10 @@
+.ConverterContainer {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.ConverterContainer label, .ConverterContainer input, .ConverterContainer select, .ConverterContainer option, button {
+    font-size: 3rem;
+    margin-left: 2rem;
+    padding: 1rem;
+}

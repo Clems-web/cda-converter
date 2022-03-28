@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+
+.App {
+  width: 100%;
+  height: fit-content;
+  min-height: 100vh;
+  background-color: rgba(46,44,147,0.81);
+  padding-top: 4rem;
+}
